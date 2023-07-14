@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-CV/static/css/main.f5b987e3.css",
+    "main.js": "/Portfolio-CV/static/js/main.629e45e9.js",
+    "static/media/author.jpg": "/Portfolio-CV/static/media/author.17705a600aaaaaa53bb2.jpg",
+    "static/media/Market launch.gif": "/Portfolio-CV/static/media/Market launch.291865e9a9efdff4cd85.gif",
+    "static/media/Men talking.gif": "/Portfolio-CV/static/media/Men talking.0c0630bcd7234e14f57e.gif",
+    "static/media/PS.png": "/Portfolio-CV/static/media/PS.1f861fb0d534a41603c9.png",
+    "static/media/Logo No BG.png": "/Portfolio-CV/static/media/Logo No BG.b4a553d6185e7de15f42.png",
+    "static/media/endless-constellation1.svg": "/Portfolio-CV/static/media/endless-constellation1.44b8af71dd67dcc18eb5.svg",
+    "index.html": "/Portfolio-CV/index.html",
+    "main.f5b987e3.css.map": "/Portfolio-CV/static/css/main.f5b987e3.css.map",
+    "main.629e45e9.js.map": "/Portfolio-CV/static/js/main.629e45e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b987e3.css",
+    "static/js/main.629e45e9.js"
+  ]
+}
